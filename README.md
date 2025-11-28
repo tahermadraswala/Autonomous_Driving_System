@@ -146,6 +146,6 @@ PRs welcome. Ideas:
 
 ## License
 
-Suggested: **MIT** (change as needed).
+Suggested: **MIT** .
 
 ---
